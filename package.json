@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A starting point for the CSS Frameworks CA project",
   "scripts": {
-    "install": "npm install bootstrap@^5.3.0",
+    "install": "npm install bootstrap@^5.3.2",
     "build": "sass src/scss:dist/css",
     "compile:scss": "sass src/scss/index.scss dist/index.css",
     "watch": "sass src/scss:dist/css --watch",
